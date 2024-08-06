@@ -34,3 +34,4 @@ In a dataset, we identify two types of variables:
 
 Dependent Variable (Outcome): This is the variable to be predicted based on provided information.
 Independent Variable (Predictor): This variable aids in predicting the outcome.
+
